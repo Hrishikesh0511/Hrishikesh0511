@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hey there! I'm Hrishikesh, a passionate CS grad student at IIIT Hyderabad, diving into ML and NLP wonders.
+
+🤖 Python aficionado delving into ML magic, with a sprinkle of C++ wizardry for good measure.
+
+📚 Currently exploring ML/NLP through coursework and hands-on experiments.
+
+💻 Web dev dabbling in HTML/CSS/JS, with OS know-how to boot.
+
+🚀 DSA enthusiast and competitive coder, always up for algorithmic adventures.
+
+🌟 Let's team up on open-source quests and tech challenges! Reach out, and let's explore together!
